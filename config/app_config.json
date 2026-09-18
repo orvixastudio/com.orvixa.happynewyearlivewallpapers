@@ -1,0 +1,841 @@
+{
+  "apps": {
+    "status": true,
+    "featured_categories": "Live Motion 2027, Fireworks 2027, Festive Countdown, Neon Cyberpunk, Golden Elegance, Minimalist 2027",
+    "show_wallpaper_name": true,
+    "show_wallpaper_category": true,
+    "show_favorite_button_in_wallpaper_list": true,
+    "enable_slider_wallpaper": false,
+    "enable_rtl_mode": false,
+    "enable_exit_dialog": true,
+    "enable_vpn_access": false,
+    "enable_dark_mode_as_default_theme": true,
+    "enable_more_apps": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://orvixa-studio.blogspot.com/p/privacy-policy-happy-new-year-wallpapers.html"
+  },
+  "ads": {
+    "mainAds": "admob",
+    "backupAds": "none",
+    "adStatus": true,
+    "interstitialInterval": 3,
+    "bannerStatus": false,
+    "interstitialStatus": true,
+    "nativeStatus": true,
+    "rewardedStatus": true,
+    "appOpenStatus": true,
+    "mainAdmobAppId": "ca-app-pub-4631404232937485~7861235146",
+    "mainAdManagerAppId": "0",
+    "mainStartappAppId": "0",
+    "mainUnityGameId": "0",
+    "mainIronsourceAppKey": "0",
+    "mainApplovinSdkKey": "0",
+    "mainBannerId": "0",
+    "mainInterstitialId": "ca-app-pub-4631404232937485/9522537267",
+    "mainNativeId": "ca-app-pub-4631404232937485/7748711580",
+    "mainRewardedId": "ca-app-pub-4631404232937485/4683564545",
+    "mainAppOpenId": "ca-app-pub-4631404232937485/6896373921",
+    "backupAdmobAppId": "0",
+    "backupAdManagerAppId": "0",
+    "backupStartappAppId": "0",
+    "backupUnityGameId": "0",
+    "backupIronsourceAppKey": "0",
+    "backupApplovinSdkKey": "0",
+    "backupBannerId": "0",
+    "backupInterstitialId": "0",
+    "backupNativeId": "0",
+    "backupRewardedId": "0",
+    "backupAppOpenId": "0"
+  },
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Fireworks 2027",
+      "category_image": "fireworks-2027.webp",
+      "prompt": "Spectacular 2027 new year fireworks display over a glowing modern city skyline, ultra HD, photorealistic, cinematic lighting, vibrant colors --ar 16:9"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Golden Elegance",
+      "category_image": "golden-elegance.webp",
+      "prompt": "Luxurious 2027 typography in 3D golden metallic texture, dark black premium background with golden bokeh particles, highly detailed, 8k --ar 16:9"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Neon Cyberpunk",
+      "category_image": "neon-cyberpunk.webp",
+      "prompt": "Cyberpunk futuristic city celebrating 2027 new year, glowing neon signs, holographic fireworks, synthwave aesthetic, rainy streets reflections --ar 16:9"
+    },
+    {
+      "category_id": 4,
+      "category_name": "Minimalist 2027",
+      "category_image": "minimalist-2027.webp",
+      "prompt": "Minimalist 2027 new year typography, clean vector art style, pastel colors, soft gradients, negative space, modern aesthetic wallpaper --ar 16:9"
+    },
+    {
+      "category_id": 5,
+      "category_name": "Festive Countdown",
+      "category_image": "festive-countdown.webp",
+      "prompt": "Aesthetic new year 2027 countdown celebration, falling confetti, champagne glasses clinking, festive party atmosphere, dramatic warm lighting --ar 16:9"
+    },
+    {
+      "category_id": 6,
+      "category_name": "Live Motion 2027",
+      "category_image": "live-motion-2027.webp",
+      "prompt": "Dynamic motion video loop of glowing 2027 new year celebration, fluid particles, cinematic camera panning, ultra HD 8k animation --ar 16:9"
+    }
+  ],
+  "wallpapers": [
+    {
+      "wallpaper_id": 1,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "Sydney Fireworks 2027",
+      "wallpaper_thumbnail": "sydney-fireworks-2027.webp",
+      "wallpaper_url": "sydney-fireworks-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Massive 2027 new year fireworks over Sydney Opera House and harbor bridge, reflection on water, midnight sky, hyperrealistic, 8k resolution --ar 9:20"
+    },
+    {
+      "wallpaper_id": 2,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "Dubai Sky 2027",
+      "wallpaper_thumbnail": "dubai-sky-2027.webp",
+      "wallpaper_url": "dubai-sky-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "2027 glowing in the sky with golden fireworks bursting around Burj Khalifa in Dubai, majestic night skyline, highly detailed, octane render --ar 9:20"
+    },
+    {
+      "wallpaper_id": 3,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "New York Times Square 2027",
+      "wallpaper_thumbnail": "new-york-times-square-2027.webp",
+      "wallpaper_url": "new-york-times-square-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Vibrant New York Times Square covered in confetti, giant glowing 2027 sign, massive fireworks above skyscrapers, bustling city energy, 8k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 4,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "London Eye 2027",
+      "wallpaper_thumbnail": "london-eye-2027.webp",
+      "wallpaper_url": "london-eye-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "London Eye illuminated at midnight, colorful 2027 fireworks reflecting on the River Thames, cinematic atmosphere, dynamic lighting, 4k mobile wallpaper --ar 9:20"
+    },
+    {
+      "wallpaper_id": 5,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "Tokyo Tower Festivity",
+      "wallpaper_thumbnail": "tokyo-tower-festivity.webp",
+      "wallpaper_url": "tokyo-tower-festivity.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Tokyo Tower glowing red with brilliant 2027 new year fireworks filling the night sky, modern japanese city lights below, photorealistic, 8k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 6,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "Paris Eiffel Magic",
+      "wallpaper_thumbnail": "paris-eiffel-magic.webp",
+      "wallpaper_url": "paris-eiffel-magic.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Eiffel Tower sparkling at midnight, majestic 2027 shaped fireworks in a starry sky, romantic paris new year atmosphere, high contrast --ar 9:20"
+    },
+    {
+      "wallpaper_id": 7,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "Tropical Beach 2027",
+      "wallpaper_thumbnail": "tropical-beach-2027.webp",
+      "wallpaper_url": "tropical-beach-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Breathtaking 2027 fireworks over a serene tropical beach, bioluminescent waves, palm trees silhouettes, magical midnight celebration, highly detailed --ar 9:20"
+    },
+    {
+      "wallpaper_id": 8,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "Snowy Mountain 2027",
+      "wallpaper_thumbnail": "snowy-mountain-2027.webp",
+      "wallpaper_url": "snowy-mountain-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Cozy snow-covered mountain village with warm glowing cabin lights, bright 2027 new year fireworks in the cold winter sky, 8k, cinematic --ar 9:20"
+    },
+    {
+      "wallpaper_id": 9,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "Cosmic Fireworks 2027",
+      "wallpaper_thumbnail": "cosmic-fireworks-2027.webp",
+      "wallpaper_url": "cosmic-fireworks-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Surreal cosmic 2027 new year celebration in outer space, nebula clouds acting as fireworks, glowing stars, futuristic sci-fi aesthetic, 8k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 10,
+      "category_name": "Fireworks 2027",
+      "wallpaper_name": "Abstract Fireworks 2027",
+      "wallpaper_thumbnail": "abstract-fireworks-2027.webp",
+      "wallpaper_url": "abstract-fireworks-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Abstract artistic interpretation of 2027 new year fireworks, explosive paint splatters, vivid neon colors on deep black canvas, dynamic motion --ar 9:20"
+    },
+    {
+      "wallpaper_id": 11,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Classic Gold 2027",
+      "wallpaper_thumbnail": "classic-gold-2027.webp",
+      "wallpaper_url": "classic-gold-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Elegant 2027 3D text in polished classic gold, resting on a luxurious black velvet background, soft spotlight, extreme detail, 8k wallpaper --ar 9:20"
+    },
+    {
+      "wallpaper_id": 12,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Rose Gold 2027",
+      "wallpaper_thumbnail": "rose-gold-2027.webp",
+      "wallpaper_url": "rose-gold-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Beautiful 2027 typography in brushed rose gold metal, surrounded by floating rose gold confetti, soft pink silk background, aesthetic 4k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 13,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Gold and Marble 2027",
+      "wallpaper_thumbnail": "gold-and-marble-2027.webp",
+      "wallpaper_url": "gold-and-marble-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "2027 sculpted in solid gold seamlessly embedded into dark luxury marble texture, premium architectural feel, rich contrasts, photorealistic --ar 9:20"
+    },
+    {
+      "wallpaper_id": 14,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Liquid Gold 2027",
+      "wallpaper_thumbnail": "liquid-gold-2027.webp",
+      "wallpaper_url": "liquid-gold-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Dynamic liquid gold splashing to form the numbers 2027, black glossy background, high-speed photography effect, luxurious fluid art, 8k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 15,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Gold Geometric 2027",
+      "wallpaper_thumbnail": "gold-geometric-2027.webp",
+      "wallpaper_url": "gold-geometric-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Abstract art deco style 2027, intricate golden geometric lines and shapes on dark charcoal background, Gatsby era vintage luxury, 4k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 16,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Gold Silk 2027",
+      "wallpaper_thumbnail": "gold-silk-2027.webp",
+      "wallpaper_url": "gold-silk-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Shimmering 2027 text gently resting on flowing black and gold silk fabric, realistic textile folds, elegant lighting, premium feel --ar 9:20"
+    },
+    {
+      "wallpaper_id": 17,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Golden Bokeh 2027",
+      "wallpaper_thumbnail": "golden-bokeh-2027.webp",
+      "wallpaper_url": "golden-bokeh-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Soft focus 2027 text glowing with warm golden light, surrounded by hundreds of out-of-focus golden bokeh circles, magical new year vibe --ar 9:20"
+    },
+    {
+      "wallpaper_id": 18,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Gold and Emerald",
+      "wallpaper_thumbnail": "gold-and-emerald.webp",
+      "wallpaper_url": "gold-and-emerald.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Striking 2027 typography in brilliant gold against a rich, deep emerald green velvet background, royal aesthetic, hyper-detailed textures --ar 9:20"
+    },
+    {
+      "wallpaper_id": 19,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Diamond Gold 2027",
+      "wallpaper_thumbnail": "diamond-gold-2027.webp",
+      "wallpaper_url": "diamond-gold-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "The year 2027 encrusted with sparkling diamonds and set in 24k gold, intense light refractions, pure luxury, dark backdrop, 8k resolution --ar 9:20"
+    },
+    {
+      "wallpaper_id": 20,
+      "category_name": "Golden Elegance",
+      "wallpaper_name": "Golden Minimalist",
+      "wallpaper_thumbnail": "golden-minimalist.webp",
+      "wallpaper_url": "golden-minimalist.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Very subtle and thin elegant golden 2027 lines on a pure matte black background, extreme minimalism, sleek corporate luxury, 4k wallpaper --ar 9:20"
+    },
+    {
+      "wallpaper_id": 21,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Cyber City 2027",
+      "wallpaper_thumbnail": "cyber-city-2027.webp",
+      "wallpaper_url": "cyber-city-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Giant holographic 2027 sign floating over a rain-slicked cyberpunk city street, neon pink and cyan lights, flying cars, synthwave vibes --ar 9:20"
+    },
+    {
+      "wallpaper_id": 22,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Neon Grid 2027",
+      "wallpaper_thumbnail": "neon-grid-2027.webp",
+      "wallpaper_url": "neon-grid-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Retro-futuristic 1980s synthwave grid landscape leading to a glowing sun with 2027 written in chrome letters, outrun aesthetic, 8k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 23,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Glitch Art 2027",
+      "wallpaper_thumbnail": "glitch-art-2027.webp",
+      "wallpaper_url": "glitch-art-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "The number 2027 corrupted by digital glitch art, glowing RGB shift, scanlines, hacker terminal aesthetic, chaotic cyberpunk beauty, 4k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 24,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Neon Rain 2027",
+      "wallpaper_thumbnail": "neon-rain-2027.webp",
+      "wallpaper_url": "neon-rain-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Cinematic close-up of a puddly asphalt reflecting a bright 2027 neon sign in a dark, rainy dystopian alleyway, blade runner style --ar 9:20"
+    },
+    {
+      "wallpaper_id": 25,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Hologram 2027",
+      "wallpaper_thumbnail": "hologram-2027.webp",
+      "wallpaper_url": "hologram-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "A glowing blue holographic projection of 2027 floating from a futuristic metallic pedestal, dark sci-fi background, highly detailed tech --ar 9:20"
+    },
+    {
+      "wallpaper_id": 26,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Arcade Retro 2027",
+      "wallpaper_thumbnail": "arcade-retro-2027.webp",
+      "wallpaper_url": "arcade-retro-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Vintage arcade machine screen displaying 'LEVEL 2027' in bright 8-bit pixel art neon, retro gaming nostalgia, colorful dark room --ar 9:20"
+    },
+    {
+      "wallpaper_id": 27,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Cyber Helmet 2027",
+      "wallpaper_thumbnail": "cyber-helmet-2027.webp",
+      "wallpaper_url": "cyber-helmet-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Cyberpunk character wearing a sleek black helmet with a digital visor that displays '2027' in scrolling red LED text, neon rim lighting --ar 9:20"
+    },
+    {
+      "wallpaper_id": 28,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Neon Kanji 2027",
+      "wallpaper_thumbnail": "neon-kanji-2027.webp",
+      "wallpaper_url": "neon-kanji-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Japanese cyberpunk street at night, vertical neon signs, a massive glowing sign reading 2027 mixed with futuristic kanji, vibrant 8k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 29,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Synthwave Car 2027",
+      "wallpaper_thumbnail": "synthwave-car-2027.webp",
+      "wallpaper_url": "synthwave-car-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "A classic retro-futuristic sports car driving into a glowing neon sunset that forms the shape of 2027, vibrant purple and orange palette --ar 9:20"
+    },
+    {
+      "wallpaper_id": 30,
+      "category_name": "Neon Cyberpunk",
+      "wallpaper_name": "Circuit Board 2027",
+      "wallpaper_thumbnail": "circuit-board-2027.webp",
+      "wallpaper_url": "circuit-board-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Macro shot of a high-tech glowing circuit board where the golden electronic pathways route together to spell 2027, cybernetic aesthetic --ar 9:20"
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Clean White 2027",
+      "wallpaper_thumbnail": "clean-white-2027.webp",
+      "wallpaper_url": "clean-white-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Ultra minimalist 2027 typography in crisp black sans-serif font centered on a pure white background, vast negative space, elegant simplicity --ar 9:20"
+    },
+    {
+      "wallpaper_id": 32,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Soft Pastel 2027",
+      "wallpaper_thumbnail": "soft-pastel-2027.webp",
+      "wallpaper_url": "soft-pastel-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Gentle 2027 written in thin white lines over a soft, soothing pastel gradient background blending peach and lavender, calming aesthetic --ar 9:20"
+    },
+    {
+      "wallpaper_id": 33,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Dark Minimal 2027",
+      "wallpaper_thumbnail": "dark-minimal-2027.webp",
+      "wallpaper_url": "dark-minimal-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Stealthy minimalist 2027 text debossed into a matte black surface, subtle shadow play, monochromatic, perfect for amoled screens, 8k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 34,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Abstract Shapes 2027",
+      "wallpaper_thumbnail": "abstract-shapes-2027.webp",
+      "wallpaper_url": "abstract-shapes-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Minimalist Bauhaus style poster featuring 2027 composed of simple colorful geometric shapes (circles, triangles, squares), cream background --ar 9:20"
+    },
+    {
+      "wallpaper_id": 35,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Line Art 2027",
+      "wallpaper_thumbnail": "line-art-2027.webp",
+      "wallpaper_url": "line-art-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Continuous single line art drawing forming a champagne glass that seamlessly connects to the number 2027, minimal beige background, boho style --ar 9:20"
+    },
+    {
+      "wallpaper_id": 36,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Glassmorphism 2027",
+      "wallpaper_thumbnail": "glassmorphism-2027.webp",
+      "wallpaper_url": "glassmorphism-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Modern glassmorphism UI style 2027, frosted glass texture overlaying a vibrant fluid gradient background, clean ui, dribbble aesthetic --ar 9:20"
+    },
+    {
+      "wallpaper_id": 37,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Typography 2027",
+      "wallpaper_thumbnail": "typography-2027.webp",
+      "wallpaper_url": "typography-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Bold brutalist typography of 2027 taking up the entire composition, stark contrast, black and off-white, swiss graphic design style --ar 9:20"
+    },
+    {
+      "wallpaper_id": 38,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Earth Tones 2027",
+      "wallpaper_thumbnail": "earth-tones-2027.webp",
+      "wallpaper_url": "earth-tones-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Warm earthy terracotta background with 2027 written in organic, flowing serif font, minimalist natural aesthetic, tranquil vibes --ar 9:20"
+    },
+    {
+      "wallpaper_id": 39,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Shadow Play 2027",
+      "wallpaper_thumbnail": "shadow-play-2027.webp",
+      "wallpaper_url": "shadow-play-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Minimalist 3D scene where the shadow of the numbers 2027 is cast upon a smooth curved white wall by warm sunlight, serene and quiet --ar 9:20"
+    },
+    {
+      "wallpaper_id": 40,
+      "category_name": "Minimalist 2027",
+      "wallpaper_name": "Gradient Mesh 2027",
+      "wallpaper_thumbnail": "gradient-mesh-2027.webp",
+      "wallpaper_url": "gradient-mesh-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Liquid gradient mesh background with highly saturated colors seamlessly blending behind a crisp, white, minimalist 2027 logo --ar 9:20"
+    },
+    {
+      "wallpaper_id": 41,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "Champagne Toast",
+      "wallpaper_thumbnail": "champagne-toast.webp",
+      "wallpaper_url": "champagne-toast.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Two crystal champagne glasses clinking with splashes of golden liquid, 2027 written in floating bokeh particles, festive night, 8k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 42,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "Midnight Clock",
+      "wallpaper_thumbnail": "midnight-clock.webp",
+      "wallpaper_url": "midnight-clock.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Elegant vintage pocket watch striking exactly midnight, glowing 2027 numerals, dark background with magical gold dust, cinematic lighting --ar 9:20"
+    },
+    {
+      "wallpaper_id": 43,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "Confetti Explosion",
+      "wallpaper_thumbnail": "confetti-explosion.webp",
+      "wallpaper_url": "confetti-explosion.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "A massive explosion of shiny metallic confetti in gold and silver, revealing a bright 2027 in the center, high-speed photography, dynamic --ar 9:20"
+    },
+    {
+      "wallpaper_id": 44,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "Sparkler 2027",
+      "wallpaper_thumbnail": "sparkler-2027.webp",
+      "wallpaper_url": "sparkler-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Long exposure photography of someone writing 2027 in the dark using a bright glowing sparkler, festive new year atmosphere, 4k wallpaper --ar 9:20"
+    },
+    {
+      "wallpaper_id": 45,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "Disco Ball 2027",
+      "wallpaper_thumbnail": "disco-ball-2027.webp",
+      "wallpaper_url": "disco-ball-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "A highly detailed glittering disco ball reflecting colorful party lights, 2027 neon sign glowing in the background, 70s retro party vibe --ar 9:20"
+    },
+    {
+      "wallpaper_id": 46,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "Balloon Drop",
+      "wallpaper_thumbnail": "balloon-drop.webp",
+      "wallpaper_url": "balloon-drop.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Hundreds of black, gold, and silver party balloons falling from a ceiling at midnight, giant 2027 metallic foil balloons in the center, photorealistic --ar 9:20"
+    },
+    {
+      "wallpaper_id": 47,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "New Year Calendar",
+      "wallpaper_thumbnail": "new-year-calendar.webp",
+      "wallpaper_url": "new-year-calendar.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "A close-up of a premium leather-bound daily calendar page turning from December 31 to January 1, 2027, warm desk lighting, depth of field --ar 9:20"
+    },
+    {
+      "wallpaper_id": 48,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "Masked Ball 2027",
+      "wallpaper_thumbnail": "masked-ball-2027.webp",
+      "wallpaper_url": "masked-ball-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Elegant masquerade mask resting next to a cocktail glass, dark moody lighting, elegant 2027 invitation card on the table, mysterious festive vibe --ar 9:20"
+    },
+    {
+      "wallpaper_id": 49,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "Party Streamers",
+      "wallpaper_thumbnail": "party-streamers.webp",
+      "wallpaper_url": "party-streamers.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Colorful holographic party streamers flying through the air forming beautiful spirals around a glowing 2027 text, bright and joyful wallpaper --ar 9:20"
+    },
+    {
+      "wallpaper_id": 50,
+      "category_name": "Festive Countdown",
+      "wallpaper_name": "Cheers 2027",
+      "wallpaper_thumbnail": "cheers-2027.webp",
+      "wallpaper_url": "cheers-2027.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "A crowd of hands raising various drinks in a toast against a blurred city background at night, 2027 glowing text overlay, celebration, 8k --ar 9:20"
+    },
+    {
+      "wallpaper_id": 51,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Cinematic Fireworks Loop",
+      "wallpaper_thumbnail": "cinematic-fireworks-loop.webp",
+      "wallpaper_url": "cinematic-fireworks-loop.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Slow motion continuous loop of massive 2027 fireworks exploding over a dark city skyline, dynamic camera panning up, cinematic lighting, 8k video --ar 9:20"
+    },
+    {
+      "wallpaper_id": 52,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Golden Fluid 2027",
+      "wallpaper_thumbnail": "golden-fluid-2027.webp",
+      "wallpaper_url": "golden-fluid-2027.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Fluid motion of liquid gold forming the typography 2027, dripping and splashing in slow motion against a black background, 3d render animation --ar 9:20"
+    },
+    {
+      "wallpaper_id": 53,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Neon Rain Panning",
+      "wallpaper_thumbnail": "neon-rain-panning.webp",
+      "wallpaper_url": "neon-rain-panning.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Camera moving forward through a cyberpunk street under neon rain, a giant glowing 2027 hologram flickering in the distance, looping video --ar 9:20"
+    },
+    {
+      "wallpaper_id": 54,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Confetti Slow Motion",
+      "wallpaper_thumbnail": "confetti-slow-motion.webp",
+      "wallpaper_url": "confetti-slow-motion.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Slow motion falling metallic confetti in gold and silver, tumbling downwards continuously past a glowing 2027 sign, festive motion --ar 9:20"
+    },
+    {
+      "wallpaper_id": 55,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "3D Spinning 2027",
+      "wallpaper_thumbnail": "3d-spinning-2027.webp",
+      "wallpaper_url": "3d-spinning-2027.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Seamless 360 degree spinning 3D text of 2027 in rose gold, floating in a dark elegant studio lighting setup, smooth rotation --ar 9:20"
+    },
+    {
+      "wallpaper_id": 56,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Cyberpunk City Drive",
+      "wallpaper_thumbnail": "cyberpunk-city-drive.webp",
+      "wallpaper_url": "cyberpunk-city-drive.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "First person view driving a synthwave car towards a neon sunset forming the numbers 2027, looping outrun grid animation --ar 9:20"
+    },
+    {
+      "wallpaper_id": 57,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Abstract Laser Show",
+      "wallpaper_thumbnail": "abstract-laser-show.webp",
+      "wallpaper_url": "abstract-laser-show.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Abstract laser show animation, beams of light intersecting to reveal 2027, dynamic club lighting, volumetric smoke moving in background --ar 9:20"
+    },
+    {
+      "wallpaper_id": 58,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Sparkler Drawing 2027",
+      "wallpaper_thumbnail": "sparkler-drawing-2027.webp",
+      "wallpaper_url": "sparkler-drawing-2027.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Motion tracking shot of a glowing sparkler writing 2027 in the air, sparks flying in slow motion, dark atmospheric background --ar 9:20"
+    },
+    {
+      "wallpaper_id": 59,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Champagne Bubbles",
+      "wallpaper_thumbnail": "champagne-bubbles.webp",
+      "wallpaper_url": "champagne-bubbles.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Macro video of champagne bubbles rapidly rising in a glass, with 2027 written in floating bokeh that moves upwards, fluid dynamics --ar 9:20"
+    },
+    {
+      "wallpaper_id": 60,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Holographic Glitch",
+      "wallpaper_thumbnail": "holographic-glitch.webp",
+      "wallpaper_url": "holographic-glitch.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Digital glitch animation of 2027, RGB color shift, screen tearing, hacker terminal aesthetic, chaotic cyberpunk motion --ar 9:20"
+    },
+    {
+      "wallpaper_id": 61,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Time Square Ball Drop",
+      "wallpaper_thumbnail": "time-square-ball-drop.webp",
+      "wallpaper_url": "time-square-ball-drop.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Time-lapse style motion of the Times Square ball drop for 2027, cheering crowd moving in fast forward, glowing lights --ar 9:20"
+    },
+    {
+      "wallpaper_id": 62,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Glowing Nebula Motion",
+      "wallpaper_thumbnail": "glowing-nebula-motion.webp",
+      "wallpaper_url": "glowing-nebula-motion.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Slowly rotating cosmic nebula forming the shape of 2027, glowing stars twinkling in the background, deep space motion --ar 9:20"
+    },
+    {
+      "wallpaper_id": 63,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Gold Dust Particles",
+      "wallpaper_thumbnail": "gold-dust-particles.webp",
+      "wallpaper_url": "gold-dust-particles.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Magical gold dust and particles drifting downwards like snow, illuminating a dark 2027 text, smooth looping particle simulation --ar 9:20"
+    },
+    {
+      "wallpaper_id": 64,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Liquid Metal Morph",
+      "wallpaper_thumbnail": "liquid-metal-morph.webp",
+      "wallpaper_url": "liquid-metal-morph.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Liquid metal seamlessly morphing and transforming into the numbers 2027, highly reflective surface rippling, 8k fluid animation --ar 9:20"
+    },
+    {
+      "wallpaper_id": 65,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Clock Striking Midnight",
+      "wallpaper_thumbnail": "clock-striking-midnight.webp",
+      "wallpaper_url": "clock-striking-midnight.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Close up of a vintage clock's hands ticking to exactly midnight, slow zoom in, gears turning in the background, cinematic motion --ar 9:20"
+    },
+    {
+      "wallpaper_id": 66,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Drone View Fireworks",
+      "wallpaper_thumbnail": "drone-view-fireworks.webp",
+      "wallpaper_url": "drone-view-fireworks.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Drone camera flying through exploding 2027 fireworks in the sky, dynamic aerial tracking shot, smoke and embers passing by lens --ar 9:20"
+    },
+    {
+      "wallpaper_id": 67,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Neon Kanji Flicker",
+      "wallpaper_thumbnail": "neon-kanji-flicker.webp",
+      "wallpaper_url": "neon-kanji-flicker.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Neon kanji and 2027 signs flickering on and off on a rainy tokyo street, neon lights reflecting on moving puddles --ar 9:20"
+    },
+    {
+      "wallpaper_id": 68,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Glassmorphism Flow",
+      "wallpaper_thumbnail": "glassmorphism-flow.webp",
+      "wallpaper_url": "glassmorphism-flow.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Glassmorphism fluid background animating with slow wavy motion, frosted glass overlaying the 2027 text, smooth UI animation --ar 9:20"
+    },
+    {
+      "wallpaper_id": 69,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Retro Arcade Zoom",
+      "wallpaper_thumbnail": "retro-arcade-zoom.webp",
+      "wallpaper_url": "retro-arcade-zoom.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Camera zooming into a retro arcade CRT monitor displaying LEVEL 2027, scanlines moving downwards, 8-bit animated background --ar 9:20"
+    },
+    {
+      "wallpaper_id": 70,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Floating Lanterns",
+      "wallpaper_thumbnail": "floating-lanterns.webp",
+      "wallpaper_url": "floating-lanterns.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Hundreds of glowing floating paper lanterns drifting upwards into a dark night sky with 2027 written in stars, slow ascending motion --ar 9:20"
+    },
+    {
+      "wallpaper_id": 71,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Snow Falling Cabin",
+      "wallpaper_thumbnail": "snow-falling-cabin.webp",
+      "wallpaper_url": "snow-falling-cabin.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Continuous loop of soft snow falling outside a cozy cabin window, fireplace light flickering over a 2027 calendar --ar 9:20"
+    },
+    {
+      "wallpaper_id": 72,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Disco Ball Spinning",
+      "wallpaper_thumbnail": "disco-ball-spinning.webp",
+      "wallpaper_url": "disco-ball-spinning.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Spinning disco ball reflecting rays of colorful light around a dark room, 2027 neon sign glowing brightly in the back, party motion --ar 9:20"
+    },
+    {
+      "wallpaper_id": 73,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Bioluminescent Waves",
+      "wallpaper_thumbnail": "bioluminescent-waves.webp",
+      "wallpaper_url": "bioluminescent-waves.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Bioluminescent blue ocean waves gently crashing on a beach at night, a glowing 2027 drawn in the wet sand, looping water simulation --ar 9:20"
+    },
+    {
+      "wallpaper_id": 74,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Golden Bokeh Drift",
+      "wallpaper_thumbnail": "golden-bokeh-drift.webp",
+      "wallpaper_url": "golden-bokeh-drift.mp4",
+      "wallpaper_type": "live",
+      "rewarded": true,
+      "prompt": "Out of focus golden bokeh lights drifting randomly across the screen, softly illuminating a central 2027 text, elegant motion --ar 9:20"
+    },
+    {
+      "wallpaper_id": 75,
+      "category_name": "Live Motion 2027",
+      "wallpaper_name": "Eiffel Tower Twinkle",
+      "wallpaper_thumbnail": "eiffel-tower-twinkle.webp",
+      "wallpaper_url": "eiffel-tower-twinkle.mp4",
+      "wallpaper_type": "live",
+      "rewarded": false,
+      "prompt": "Eiffel tower sparkling with thousands of strobe lights at midnight, 2027 fireworks exploding in the background, cinematic time-lapse --ar 9:20"
+    }
+  ],
+  "more_apps": []
+}
